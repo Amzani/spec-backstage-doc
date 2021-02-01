@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "API Spec"
+  description: "TEST"
+  annotations:
+    github.com/project-slug: Amzani/spec-backstage-doc
+    backstage.io/techdocs-ref: url:https://github.com/Amzani/spec-backstage-doc
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "samir"

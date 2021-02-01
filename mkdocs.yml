@@ -1,0 +1,8 @@
+site_name: "API Spec"
+site_description: "TEST"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
